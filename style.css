@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+/* https://www.color-hex.com/color-palette/55334 */
+
+body {
+    background-color: #141d26;
+}
+
+h1, h2 {
+    font-family: "Roboto", sans-serif;
+    color: #c51f5d;
+}
